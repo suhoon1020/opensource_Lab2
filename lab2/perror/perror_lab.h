@@ -1,0 +1,1 @@
+void perror_lab(char *str);
