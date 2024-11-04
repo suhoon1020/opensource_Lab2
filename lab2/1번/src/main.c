@@ -7,9 +7,9 @@ int main(void){
 	scanf("%d %d", &a, &b);
 	
 	printf("add : %d\n", add(a, b));
-	printf("sub : %d\n", sub(a, b));
-	printf("mul : %d\n", mul(a, b));
-	printf("div : %d\n", div(a, b));
+	printf("sub : %d\n", subtract(a, b));
+	printf("mul : %d\n", multiply(a, b));
+	printf("div : %d\n", divide(a, b));
 
 	return 0;
 }
